@@ -1,4 +1,4 @@
-![MasterHead](https://ik.imagekit.io/gim/freepik__modern-style-detailled-illustration-a-lone-astrona__6325_fGcuF2sO1.jpeg?updatedAt=1735824073596)
+![MasterHead](https://ik.imagekit.io/gim/freepik__modern-style-detailled-illustration-a-lone-astrona__6325-cropped_r4DZrDbSV.jpeg?updatedAt=1735824714039)
 
 <h1 align="center">Hi 👋, I'm Ikenna</h1>
 <h3 align="center">Driven by the desire to build solutions that meet everyday people's needs without tears, I write software that enables possibilities.</h3>
