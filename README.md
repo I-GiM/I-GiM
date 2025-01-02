@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ikenna</h1>
 <h3 align="center">Driven by the desire to build solutions that meet every day people's needs without tears, I write software that enables possibilities.</h3>
 
-- 👨‍💻 All of my projects are available at [https://gim-portfolio.netlify.app](https://gim-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gim-portfolio.netlify.app)
 
 - 📫 How to reach me **ikennaoyiih@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mjj0TAlK1iytyviDmLV5B4aFlrMmUCiv/view?usp=sharing](https://drive.google.com/file/d/1Mjj0TAlK1iytyviDmLV5B4aFlrMmUCiv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Mjj0TAlK1iytyviDmLV5B4aFlrMmUCiv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
